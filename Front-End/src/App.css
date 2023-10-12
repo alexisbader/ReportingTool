@@ -1,0 +1,36 @@
+/* Global styling */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.App {
+    margin: 50px;
+    font-family: 'Inter', sans-serif;
+}
+
+#report {
+    margin: 20px;
+    display: flex;
+    flex-direction:column;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.header-components{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#generate{
+    display:flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}

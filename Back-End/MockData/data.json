@@ -1,0 +1,73 @@
+{"metadata":{
+    "users": [{
+      "id": "",
+      
+      "name": {
+        "first": "", 
+        "last": ""
+      },
+      
+      "contact": {
+        "phone": {
+          "main": "",
+          "cell": "",
+          "fax": "",
+          "tollFree": "", 
+          "extension": ""
+        },
+        "email": "", 
+        "socialMedia": {
+            "linkedin": "",
+            "twitter": "",
+            "facebook": ""
+        }
+      }, 
+
+      "employment": 
+      {
+        "jobTitleOne": "", 
+        "jobTitleTwo": "", 
+        "provLicenses": "", 
+        "designation": ""
+      },
+
+      "location": {
+        "name": "",
+        "phone": {
+            "main": "",
+            "cell": "",
+            "fax": "",
+            "tollFree": "", 
+            "extension": ""
+          },
+        "address": {
+            "lineOne": "",
+            "lineTwo": "",
+            "city": "",
+            "province": "",
+            "postalCode": "",
+            "country": ""
+        }
+    },
+
+    "site": {
+        "theme": "",
+        "url": "",
+        "title": "",
+        "languages": "",
+        "defaultLanguage": "",
+        "timeZone": ""
+    },
+
+    "hub": {
+        "status": "",
+        "id": "",
+        "name": "",
+        "workflow": "",
+        "locator": "",
+        "accessType": ""
+    }
+
+    }]
+
+}}
